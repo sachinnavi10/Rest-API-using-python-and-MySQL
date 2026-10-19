@@ -1,0 +1,114 @@
+[
+    {
+        "id": 6,
+        "name": "Asha Kumar",
+        "email": "asha.kumar2@example.com",
+        "department": "Data Analytics",
+        "salary": "70000.00"
+    },
+    {
+        "id": 8,
+        "name": "Asha Kumar",
+        "email": "asha.csv@example.com",
+        "department": "Engineering",
+        "salary": "65000.00"
+    },
+    {
+        "id": 9,
+        "name": "Swagger Test Employee Updated",
+        "email": "swagger.updated.2026@example.com",
+        "department": "Data Analytics",
+        "salary": "45000.00"
+    },
+    {
+        "id": 10,
+        "name": "Priya Patel",
+        "email": "priya.csv@example.com",
+        "department": "Finance",
+        "salary": "58000.00"
+    },
+    {
+        "id": 11,
+        "name": "Arun Reddy",
+        "email": "arun.csv@example.com",
+        "department": "HR",
+        "salary": "45000.00"
+    },
+    {
+        "id": 12,
+        "name": "Neha Singh",
+        "email": "neha.csv@example.com",
+        "department": "Marketing",
+        "salary": "52000.00"
+    },
+    {
+        "id": 18,
+        "name": "Rahul Sharma",
+        "email": "rahul.stage8@example.com",
+        "department": "Data Analytics",
+        "salary": "70000.00"
+    },
+    {
+        "id": 19,
+        "name": "Priya Patel",
+        "email": "priya.stage8@example.com",
+        "department": "Finance",
+        "salary": "58000.00"
+    },
+    {
+        "id": 20,
+        "name": "Arun Reddy",
+        "email": "arun.stage8@example.com",
+        "department": "HR",
+        "salary": "45000.00"
+    },
+    {
+        "id": 21,
+        "name": "Neha Singh",
+        "email": "neha.stage8@example.com",
+        "department": "Marketing",
+        "salary": "52000.00"
+    },
+    {
+        "id": 27,
+        "name": "Kiran Rao",
+        "email": "kiran.json@example.com",
+        "department": "Engineering",
+        "salary": "60000.00"
+    },
+    {
+        "id": 28,
+        "name": "Meera Shah",
+        "email": "meera.json@example.com",
+        "department": "Finance",
+        "salary": "55000.00"
+    },
+    {
+        "id": 29,
+        "name": "Vijay Kumar",
+        "email": "vijay.json@example.com",
+        "department": "Data Analytics",
+        "salary": "65000.00"
+    },
+    {
+        "id": 30,
+        "name": "Ananya Das",
+        "email": "ananya.json@example.com",
+        "department": "HR",
+        "salary": "48000.00"
+    },
+    {
+        "id": 31,
+        "name": "Rohit Verma",
+        "email": "rohit.json@example.com",
+        "department": "Marketing",
+        "salary": "52000.00"
+    },
+    {
+        "id": 47,
+        "name": "Test Employee",
+        "email": "test@example.com",
+        "department": "IT",
+        "salary": "50000.00"
+    }
+]

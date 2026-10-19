@@ -1,0 +1,33 @@
+[ 
+  {
+    "name": "Kiran Rao",
+    "email": "kiran.json@example.com",
+    "department": "Engineering",
+    "salary": 60000
+  },
+  {
+    "name": "Meera Shah",
+    "email": "meera.json@example.com",
+    "department": "Finance",
+    "salary": 55000
+  },
+  {
+    "name": "Vijay Kumar",
+    "email": "vijay.json@example.com",
+    "department": "Data Analytics",
+    "salary": 65000
+  },
+  {
+    "name": "Ananya Das",
+    "email": "ananya.json@example.com",
+    "department": "HR",
+    "salary": 48000
+  },
+  {
+    "name": "Rohit Verma",
+    "email": "rohit.json@example.com",
+    "department": "Marketing",
+    "salary": 52000
+  }
+  
+]

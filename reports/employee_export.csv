@@ -1,0 +1,12 @@
+id,name,email,department,salary
+6,Asha Kumar,asha.kumar2@example.com,Data Analytics,70000.00
+8,Asha Kumar,asha.csv@example.com,Engineering,65000.00
+9,Rahul Sharma,rahul.csv@example.com,Data Analytics,70000.00
+10,Priya Patel,priya.csv@example.com,Finance,58000.00
+11,Arun Reddy,arun.csv@example.com,HR,45000.00
+12,Neha Singh,neha.csv@example.com,Marketing,52000.00
+17,Asha Kumar,asha.stage8@example.com,Engineering,65000.00
+18,Rahul Sharma,rahul.stage8@example.com,Data Analytics,70000.00
+19,Priya Patel,priya.stage8@example.com,Finance,58000.00
+20,Arun Reddy,arun.stage8@example.com,HR,45000.00
+21,Neha Singh,neha.stage8@example.com,Marketing,52000.00
