@@ -22,6 +22,7 @@ A REST API built with Python, FastAPI, and MySQL for managing employee records a
 - Uvicorn
 - `python-dotenv`
 - `python-multipart`
+- Postman (optional, for API testing)
 
 ## Project structure
 
@@ -49,8 +50,8 @@ The `uploads/` and `reports/` directories are created as needed by file operatio
 1. Clone the repository and enter the project directory:
 
    ```powershell
-   git clone <YOUR_GITHUB_REPOSITORY_URL>
-   cd employee_api
+   git clone https://github.com/sachinnavi10/Rest-API-using-python-and-MySQL.git
+   cd Rest-API-using-python-and-MySQL
    ```
 
 2. Create and activate a virtual environment:
@@ -217,7 +218,19 @@ Other errors may be returned for filesystem permission or operation failures. Us
 
 ## Testing
 
-The project has been manually exercised through Swagger UI and Postman. No automated test suite is currently included.
+Use Swagger UI or Postman to test the API. Send requests to `http://127.0.0.1:8000` after starting the server, and verify the response codes and returned data. No automated test suite is currently included.
+
+## Learning outcomes
+
+This project demonstrates practical experience with:
+
+- Building REST APIs using FastAPI.
+- Connecting a Python application to MySQL.
+- Implementing CRUD operations and validating request data.
+- Handling text, CSV, and JSON files.
+- Uploading files and generating reports.
+- Testing APIs with Swagger UI and Postman.
+- Managing project code with Git and GitHub.
 
 ## Security notes
 
@@ -228,8 +241,10 @@ The project has been manually exercised through Swagger UI and Postman. No autom
 
 ## Author
 
-**Your Name**
+**Sachin Navi**
 
-GitHub: [Your GitHub Profile](https://github.com/)
+GitHub: [sachinnavi10](https://github.com/sachinnavi10)
 
-Replace these placeholders with your author name and profile before publishing.
+## License
+
+A license has not yet been specified for this project. Add a `LICENSE` file if you intend to publish it under an open-source license.
